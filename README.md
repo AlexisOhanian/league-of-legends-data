@@ -1,15 +1,13 @@
 # league-of-legends-data
 
-A data source for League of Legends. Contains Champion base stats, item stats, etc.
-
-Data is stored in json.
+A data source for League of Legends. Contains Champion base stats, item stats, etc. Data is stored in json.
 
 ## Usage
 
 ## FAQ
 
 * Where is this data captured from? 
-	* The data you see here is captured from the league-of-legends [wiki](http://leagueoflegends.wikia.com/) (which is often updated). 
+	* The data you see here is captured from the league-of-legends [wiki](http://leagueoflegends.wikia.com/), which is often updated. 
 
 		A companion utility, [league-of-legends-data-scraper](https://github.com/dhulihan/league-of-legends-data-scraper) is used to automate and update the data you see here.
 
